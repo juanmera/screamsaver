@@ -2,6 +2,8 @@
 Play sound when trying to unlock screensaver
 
 ## Installation
+brew install imagesnap 
+
 git clone https://github.com/juanmera/screamsaver
 
 cd screamsaver
